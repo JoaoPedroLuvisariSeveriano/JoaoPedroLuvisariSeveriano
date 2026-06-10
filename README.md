@@ -49,11 +49,16 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
-### Projetos em Destaque
+### Projetos da ETEC
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**PetNexus**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus) | Sistema web para gestão de PetShop e clínica veterinária (TCC ETEC). | `PHP` `JavaScript` `SCSS` |
+
+### Outros Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
 | [**Sistema de Gestão Acadêmica**](https://github.com/JoaoPedroLuvisariSeveriano/Sistema-de-Gestao-Academica) | Aplicação web full-stack para administração de instituições de ensino. | `TypeScript` `Node.js` `React` |
 | [**Conecta Fatec Jacareí**](https://github.com/KaimanByte/Conecta-Fatec-Jacarei) | Soluções tecnológicas para a secretaria da Fatec Jacareí (ABP 2). | `React` `TypeScript` |
 | [**AgriRS-Lab**](https://github.com/KaimanByte/AgriRS-Lab) | Website para o Lab. de Sensoriamento Remoto Agrícola do INPE (ABP 1). | `HTML` `CSS` `JavaScript` |

@@ -8,9 +8,6 @@
   <a href="https://github.com/JoaoPedroLuvisariSeveriano" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/pedro_luvisari/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523039/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%234CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>

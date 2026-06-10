@@ -58,15 +58,11 @@
 | [**Conecta Fatec Jacareí**](https://github.com/KaimanByte/Conecta-Fatec-Jacarei) | Soluções tecnológicas para a secretaria da Fatec Jacareí (ABP 2). | `React` `TypeScript` |
 | [**AgriRS-Lab**](https://github.com/KaimanByte/AgriRS-Lab) | Website para o Lab. de Sensoriamento Remoto Agrícola do INPE (ABP 1). | `HTML` `CSS` `JavaScript` |
 | [**Desafio Game ODS**](https://github.com/JoaoPedroLuvisariSeveriano/Desafio-Game-ODS) | Jogo interativo focado nos Objetivos de Desenvolvimento Sustentável (ODS). | `Game Dev` |
-
-<br/>
-<details>
-  <summary><b>Ver mais projetos</b></summary>
-  
-  - [**Fractais Julia e Mandelbrot**](https://github.com/JoaoPedroLuvisariSeveriano/Fractais-Julia-Mandelbrot-)
-  - [**Plataforma Digital de Cursos - GPC Consultoria**](https://github.com/JoaoPedroLuvisariSeveriano/Plataforma-Digital-de-Cursos-GPC-Consultoria)
-  - [**Jogo de Damas**](https://github.com/JoaoPedroLuvisariSeveriano/Jogo-de-Damas)
-</details>
+| [**Fractais Julia e Mandelbrot**](https://github.com/JoaoPedroLuvisariSeveriano/Fractais-Julia-Mandelbrot-) | Renderização matemática e estudo dos famosos conjuntos de fractais. | `Matemática` `Visualização` |
+| [**Sistema de Automação**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Sistema-de-Atomacao) | Automação e otimização de tarefas e processos operacionais. | `Automação` `Produtividade` |
+| [**Materiais Visuais**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Materiais-Visuais) | Criação de diversos materiais visuais e construção de interfaces. | `Design Gráfico` `UI/UX` |
+| [**Plataforma Digital - GPC**](https://github.com/JoaoPedroLuvisariSeveriano/Plataforma-Digital-de-Cursos-GPC-Consultoria) | Plataforma web de ensino à distância (EAD) desenvolvida para a GPC. | `Web Dev` `EAD` |
+| [**Jogo de Damas**](https://github.com/JoaoPedroLuvisariSeveriano/Jogo-de-Damas) | Versão digital e interativa do clássico Jogo de Damas com regras de negócio. | `Game Dev` `Lógica` |
 
 ### 📊 Estatísticas do GitHub
 

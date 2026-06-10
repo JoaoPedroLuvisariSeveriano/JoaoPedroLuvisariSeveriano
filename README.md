@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o João Pedro Luvisari Severiano! 👋</h1>
+<h1 align="center">Olá, eu sou o João Pedro Luvisari Severiano!</h1>
 <h3 align="center">Desenvolvedor de Software Multiplataforma | <i>Transformando ideias em experiências digitais memoráveis</i></h3>
 
 <p align="center">
@@ -15,15 +15,15 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-- 🎓 Estudando **Desenvolvimento de Software Multiplataforma** na Fatec Jacareí (2025 - 2028).
-- 💻 Técnico em **Desenvolvimento de Sistemas** formado pela ETEC São José dos Campos.
-- 🚀 Sou um profissional dedicado ao desenvolvimento web, com foco em criar experiências digitais memoráveis e funcionais.
-- 💡 Filosofia: *"A tecnologia deve ser uma extensão da criatividade humana, não uma barreira. Cada linha de código é uma oportunidade de criar algo que faça a diferença na vida das pessoas."*
-- 🎯 Valores: Foco em Resultados, Melhoria Contínua, Colaboração e Inovação.
-- 🌎 Localização: São José dos Campos, SP – Brasil.
+### Sobre mim
+- Estudando **Desenvolvimento de Software Multiplataforma** na Fatec Jacareí (2025 - 2028).
+- Técnico em **Desenvolvimento de Sistemas** formado pela ETEC São José dos Campos.
+- Sou um profissional dedicado ao desenvolvimento web, com foco em criar experiências digitais memoráveis e funcionais.
+- Filosofia: *"A tecnologia deve ser uma extensão da criatividade humana, não uma barreira. Cada linha de código é uma oportunidade de criar algo que faça a diferença na vida das pessoas."*
+- Valores: Foco em Resultados, Melhoria Contínua, Colaboração e Inovação.
+- Localização: São José dos Campos, SP – Brasil.
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="left">
   <strong>Frontend:</strong><br>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
-### 💼 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -64,7 +64,7 @@
 | [**Plataforma Digital - GPC**](https://github.com/JoaoPedroLuvisariSeveriano/Plataforma-Digital-de-Cursos-GPC-Consultoria) | Plataforma web de ensino à distância (EAD) desenvolvida para a GPC. | `Web Dev` `EAD` |
 | [**Jogo de Damas**](https://github.com/JoaoPedroLuvisariSeveriano/Jogo-de-Damas) | Versão digital e interativa do clássico Jogo de Damas com regras de negócio. | `Game Dev` `Lógica` |
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLuvisariSeveriano&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />

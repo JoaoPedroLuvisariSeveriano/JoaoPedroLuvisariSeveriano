@@ -55,13 +55,18 @@
 |---------|-----------|-------------|
 | [**PetNexus**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus) | Sistema web para gestão de PetShop e clínica veterinária (TCC ETEC). | `PHP` `JavaScript` `SCSS` |
 
+### Projetos da FATEC
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [**Conecta Fatec Jacareí**](https://github.com/KaimanByte/Conecta-Fatec-Jacarei) | Soluções tecnológicas para a secretaria da Fatec Jacareí (ABP 2). | `React` `TypeScript` |
+| [**AgriRS-Lab**](https://github.com/KaimanByte/AgriRS-Lab) | Website para o Lab. de Sensoriamento Remoto Agrícola do INPE (ABP 1). | `HTML` `CSS` `JavaScript` |
+
 ### Outros Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**Sistema de Gestão Acadêmica**](https://github.com/JoaoPedroLuvisariSeveriano/Sistema-de-Gestao-Academica) | Aplicação web full-stack para administração de instituições de ensino. | `TypeScript` `Node.js` `React` |
-| [**Conecta Fatec Jacareí**](https://github.com/KaimanByte/Conecta-Fatec-Jacarei) | Soluções tecnológicas para a secretaria da Fatec Jacareí (ABP 2). | `React` `TypeScript` |
-| [**AgriRS-Lab**](https://github.com/KaimanByte/AgriRS-Lab) | Website para o Lab. de Sensoriamento Remoto Agrícola do INPE (ABP 1). | `HTML` `CSS` `JavaScript` |
 | [**Desafio Game ODS**](https://github.com/JoaoPedroLuvisariSeveriano/Desafio-Game-ODS) | Jogo interativo focado nos Objetivos de Desenvolvimento Sustentável (ODS). | `Game Dev` |
 | [**Fractais Julia e Mandelbrot**](https://github.com/JoaoPedroLuvisariSeveriano/Fractais-Julia-Mandelbrot-) | Renderização matemática e estudo dos famosos conjuntos de fractais. | `Matemática` `Visualização` |
 | [**Sistema de Automação**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Sistema-de-Atomacao) | Automação e otimização de tarefas e processos operacionais. | `Automação` `Produtividade` |

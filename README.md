@@ -83,11 +83,3 @@
 | [**Materiais Visuais**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Materiais-Visuais) | Criação de diversos materiais visuais e construção de interfaces. | `Design Gráfico` `UI/UX` |
 | [**Plataforma Digital - GPC**](https://github.com/JoaoPedroLuvisariSeveriano/Plataforma-Digital-de-Cursos-GPC-Consultoria) | Plataforma web de ensino à distância (EAD) desenvolvida para a GPC. | `Web Dev` `EAD` |
 | [**Jogo de Damas**](https://github.com/JoaoPedroLuvisariSeveriano/Jogo-de-Damas) | Versão digital e interativa do clássico Jogo de Damas com regras de negócio. | `Game Dev` `Lógica` |
-
-### Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLuvisariSeveriano&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLuvisariSeveriano&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Linguagens" />
-</p>

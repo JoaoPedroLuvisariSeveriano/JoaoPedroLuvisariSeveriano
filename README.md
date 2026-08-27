@@ -69,12 +69,13 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**PetNexus**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus) | Sistema web para gestão de PetShop e clínica veterinária (TCC ETEC). | `PHP` `JavaScript` `SCSS` |
+| [**PetNexus (Legacy)**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus) | Sistema web original para gestão de PetShop (TCC ETEC em PHP). | `PHP` `JavaScript` `SCSS` |
 
 ### Outros Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
+| [**PetNexus 2.0**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus-2.0) | Sistema robusto de gerenciamento para petshop, reestruturado em monorepo com dashboard real, PDV e agendamentos. | `React` `Node.js` `TypeScript` `PostgreSQL` |
 | [**Sistema de Gestão Acadêmica**](https://github.com/JoaoPedroLuvisariSeveriano/Sistema-de-Gestao-Academica) | Aplicação web full-stack para administração de instituições de ensino. | `TypeScript` `Node.js` `React` |
 | [**Desafio Game ODS**](https://github.com/JoaoPedroLuvisariSeveriano/Desafio-Game-ODS) | Jogo interativo focado nos Objetivos de Desenvolvimento Sustentável (ODS). | `Game Dev` |
 | [**Fractais Julia e Mandelbrot**](https://github.com/JoaoPedroLuvisariSeveriano/Fractais-Julia-Mandelbrot-) | Renderização matemática e estudo dos famosos conjuntos de fractais. | `Matemática` `Visualização` |

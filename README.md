@@ -88,5 +88,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLuvisariSeveriano&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLuvisariSeveriano&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Linguagens" />
 </p>

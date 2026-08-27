@@ -18,7 +18,7 @@
 ### Sobre mim
 - Estudando **Desenvolvimento de Software Multiplataforma** na Fatec Jacareí (2025 - 2028).
 - Técnico em **Desenvolvimento de Sistemas** formado pela ETEC São José dos Campos.
-- Sou um profissional dedicado ao desenvolvimento web, com foco em criar experiências digitais memoráveis e funcionais.
+- Sou um profissional dedicado ao desenvolvimento web e mobile, com foco em criar experiências digitais memoráveis e funcionais.
 - Filosofia: *"A tecnologia deve ser uma extensão da criatividade humana, não uma barreira. Cada linha de código é uma oportunidade de criar algo que faça a diferença na vida das pessoas."*
 - Valores: Foco em Resultados, Melhoria Contínua, Colaboração e Inovação.
 - Localização: São José dos Campos, SP – Brasil.
@@ -32,14 +32,22 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
 <p align="left">
-  <strong>Backend:</strong><br>
+  <strong>Mobile:</strong><br>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Backend & Banco de Dados:</strong><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <p align="left">

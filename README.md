@@ -18,7 +18,8 @@
 ### Sobre mim
 - Estudando **Desenvolvimento de Software Multiplataforma** na Fatec Jacareí (2025 - 2028).
 - Técnico em **Desenvolvimento de Sistemas** formado pela ETEC São José dos Campos.
-- Sou um profissional dedicado ao desenvolvimento web e mobile, com foco em criar experiências digitais memoráveis e funcionais.
+- Sou um profissional dedicado ao desenvolvimento web, com forte foco no ecossistema **TypeScript** e na construção de integrações robustas para backend e banco de dados.
+- Experiência prática com metodologias ágeis, atuando na gestão de projetos de software, planejamento de sprints e refinamento de requisitos (Scrum Master e Product Owner).
 - Filosofia: *"A tecnologia deve ser uma extensão da criatividade humana, não uma barreira. Cada linha de código é uma oportunidade de criar algo que faça a diferença na vida das pessoas."*
 - Valores: Foco em Resultados, Melhoria Contínua, Colaboração e Inovação.
 - Localização: São José dos Campos, SP – Brasil.
@@ -46,6 +47,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -69,7 +71,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**PetNexus (Legacy)**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus) | Sistema web original para gestão de PetShop (TCC ETEC em PHP). | `PHP` `JavaScript` `SCSS` |
+| [**PetNexus (Legacy)**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus) | Sistema web original para gestão de PetShop (TCC ETEC). | `PHP` `JavaScript` `SCSS` |
 
 ### Outros Projetos em Destaque
 
@@ -77,9 +79,11 @@
 |---------|-----------|-------------|
 | [**PetNexus 2.0**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus-2.0) | Sistema robusto de gerenciamento para petshop, reestruturado em monorepo com dashboard real, PDV e agendamentos. | `React` `Node.js` `TypeScript` `PostgreSQL` |
 | [**Sistema de Gestão Acadêmica**](https://github.com/JoaoPedroLuvisariSeveriano/Sistema-de-Gestao-Academica) | Aplicação web full-stack para administração de instituições de ensino. | `TypeScript` `Node.js` `React` |
-| [**Desafio Game ODS**](https://github.com/JoaoPedroLuvisariSeveriano/Desafio-Game-ODS) | Jogo interativo focado nos Objetivos de Desenvolvimento Sustentável (ODS). | `Game Dev` |
-| [**Fractais Julia e Mandelbrot**](https://github.com/JoaoPedroLuvisariSeveriano/Fractais-Julia-Mandelbrot-) | Renderização matemática e estudo dos famosos conjuntos de fractais. | `Matemática` `Visualização` |
-| [**Sistema de Automação**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Sistema-de-Atomacao) | Automação e otimização de tarefas e processos operacionais. | `Automação` `Produtividade` |
-| [**Materiais Visuais**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Materiais-Visuais) | Criação de diversos materiais visuais e construção de interfaces. | `Design Gráfico` `UI/UX` |
-| [**Plataforma Digital - GPC**](https://github.com/JoaoPedroLuvisariSeveriano/Plataforma-Digital-de-Cursos-GPC-Consultoria) | Plataforma web de ensino à distância (EAD) desenvolvida para a GPC. | `Web Dev` `EAD` |
-| [**Jogo de Damas**](https://github.com/JoaoPedroLuvisariSeveriano/Jogo-de-Damas) | Versão digital e interativa do clássico Jogo de Damas com regras de negócio. | `Game Dev` `Lógica` |
+| [**Ordem de Serviços (MVC)**](https://github.com/JoaoPedroLuvisariSeveriano/ordem-servicos-mvc) | Sistema PHP com estrutura MVC, conexões PDO, filtros e autenticação (Seleção técnica Titan Software). | `PHP` `MVC` `MySQL` `PDO` |
+| [**Processamento de Apostas**](https://github.com/JoaoPedroLuvisariSeveriano/processamento-apostas-go) | Motor backend de alta performance para processamento e gerenciamento de apostas. | `Go` `Backend` |
+| [**Desafio Game ODS**](https://github.com/JoaoPedroLuvisariSeveriano/Desafio-Game-ODS) | Jogo interativo educacional focado nos Objetivos de Desenvolvimento Sustentável (ODS). | `HTML5 Canvas` `JavaScript ES6` |
+| [**Plataforma Digital - GPC**](https://github.com/JoaoPedroLuvisariSeveriano/Plataforma-Digital-de-Cursos-GPC-Consultoria) | Plataforma web de ensino à distância (EAD) desenvolvida para a GPC. | `React` `Node.js` `Web Dev` |
+| [**Fractais Julia e Mandelbrot**](https://github.com/JoaoPedroLuvisariSeveriano/Fractais-Julia-Mandelbrot-) | Renderização matemática e estudo dos famosos conjuntos de fractais. | `JavaScript` `Algoritmos` |
+| [**Sistema de Automação**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Sistema-de-Atomacao) | Automação e otimização de tarefas e processos operacionais via scripts. | `Python` `Automação` |
+| [**Materiais Visuais**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Materiais-Visuais) | Criação de diversos materiais visuais e prototipação de interfaces. | `Figma` `UI/UX` |
+| [**Jogo de Damas**](https://github.com/JoaoPedroLuvisariSeveriano/Jogo-de-Damas) | Versão digital interativa do clássico Jogo de Damas com regras de negócio. | `JavaScript` `Lógica` |

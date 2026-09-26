@@ -79,7 +79,7 @@
 |---------|-----------|-------------|
 | [**PetNexus 2.0**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus-2.0) | Sistema robusto de gerenciamento para petshop, reestruturado em monorepo com dashboard real, PDV e agendamentos. | `React` `Node.js` `TypeScript` `PostgreSQL` |
 | [**Sistema de Gestão Acadêmica**](https://github.com/JoaoPedroLuvisariSeveriano/Sistema-de-Gestao-Academica) | Aplicação web full-stack para administração de instituições de ensino. | `TypeScript` `Node.js` `React` |
-| [**Ordem de Serviços (MVC)**](https://github.com/JoaoPedroLuvisariSeveriano/ordem-servicos-mvc) | Sistema PHP com estrutura MVC, conexões PDO, filtros e autenticação (Seleção técnica Titan Software). | `PHP` `MVC` `MySQL` `PDO` |
+| [**Ordem de Serviços (MVC)**](https://github.com/JoaoPedroLuvisariSeveriano/ordem-servicos-mvc) | Sistema PHP com estrutura MVC, conexões PDO, filtros e autenticação. | `PHP` `MVC` `MySQL` `PDO` |
 | [**Processamento de Apostas**](https://github.com/JoaoPedroLuvisariSeveriano/processamento-apostas-go) | Motor backend de alta performance para processamento e gerenciamento de apostas. | `Go` `Backend` |
 | [**Desafio Game ODS**](https://github.com/JoaoPedroLuvisariSeveriano/Desafio-Game-ODS) | Jogo interativo educacional focado nos Objetivos de Desenvolvimento Sustentável (ODS). | `HTML5 Canvas` `JavaScript ES6` |
 | [**Plataforma Digital - GPC**](https://github.com/JoaoPedroLuvisariSeveriano/Plataforma-Digital-de-Cursos-GPC-Consultoria) | Plataforma web de ensino à distância (EAD) desenvolvida para a GPC. | `React` `Node.js` `Web Dev` |

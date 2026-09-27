@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o João Pedro Luvisari Severiano!</h1>
-<h3 align="center">Desenvolvedor de Software Multiplataforma | <i>Transformando ideias em experiências digitais memoráveis</i></h3>
+<h3 align="center">Desenvolvedor Full Stack | Web & Mobile | <i>Transformando ideias em experiências digitais memoráveis</i></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joão-pedro-luvisari-severiano-bb1aa9303/" target="_blank">
@@ -18,7 +18,7 @@
 ### Sobre mim
 - Estudando **Desenvolvimento de Software Multiplataforma** na Fatec Jacareí (2025 - 2028).
 - Técnico em **Desenvolvimento de Sistemas** formado pela ETEC São José dos Campos.
-- Sou um profissional dedicado ao desenvolvimento web, com forte foco no ecossistema **TypeScript** e na construção de integrações robustas para backend e banco de dados.
+- Atuo como **Desenvolvedor Full Stack**, dedicado ao desenvolvimento web e mobile, com forte foco no ecossistema **TypeScript** e na construção de integrações robustas (frontend, backend e banco de dados).
 - Experiência prática com metodologias ágeis, atuando na gestão de projetos de software, planejamento de sprints e refinamento de requisitos (Scrum Master e Product Owner).
 - Filosofia: *"A tecnologia deve ser uma extensão da criatividade humana, não uma barreira. Cada linha de código é uma oportunidade de criar algo que faça a diferença na vida das pessoas."*
 - Valores: Foco em Resultados, Melhoria Contínua, Colaboração e Inovação.

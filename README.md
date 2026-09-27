@@ -22,7 +22,7 @@
 - Experiência prática com metodologias ágeis, atuando na gestão de projetos de software, planejamento de sprints e refinamento de requisitos (Scrum Master e Product Owner).
 - Filosofia: *"A tecnologia deve ser uma extensão da criatividade humana, não uma barreira. Cada linha de código é uma oportunidade de criar algo que faça a diferença na vida das pessoas."*
 - Valores: Foco em Resultados, Melhoria Contínua, Colaboração e Inovação.
-- Localização: São José dos Campos, SP – Brasil.
+- Localização: Jacareí, SP – Brasil.
 
 ### Tecnologias e Ferramentas
 

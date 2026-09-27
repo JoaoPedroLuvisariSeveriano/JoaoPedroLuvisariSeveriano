@@ -54,8 +54,10 @@
 </p>
 
 <p align="left">
-  <strong>Ferramentas:</strong><br>
+  <strong>Ferramentas & Infraestrutura:</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
@@ -79,8 +81,8 @@
 |---------|-----------|-------------|
 | [**PetNexus 2.0**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus-2.0) | Sistema robusto de gerenciamento para petshop, reestruturado em monorepo com dashboard real, PDV e agendamentos. | `React` `Node.js` `TypeScript` `PostgreSQL` |
 | [**Sistema de Gestão Acadêmica**](https://github.com/JoaoPedroLuvisariSeveriano/Sistema-de-Gestao-Academica) | Aplicação web full-stack para administração de instituições de ensino. | `TypeScript` `Node.js` `React` |
-| [**Ordem de Serviços (MVC)**](https://github.com/JoaoPedroLuvisariSeveriano/ordem-servicos-mvc) | Sistema PHP com estrutura MVC, conexões PDO, filtros e autenticação. | `PHP` `MVC` `MySQL` `PDO` |
-| [**Processamento de Apostas**](https://github.com/JoaoPedroLuvisariSeveriano/processamento-apostas-go) | Motor backend de alta performance para processamento e gerenciamento de apostas. | `Go` `Backend` |
+| [**Ordem de Serviços (MVC)**](https://github.com/JoaoPedroLuvisariSeveriano/ordem-servicos-mvc) | Sistema PHP com estrutura MVC, conexões PDO, filtros e autenticação (Seleção técnica Titan Software). | `PHP` `MVC` `MySQL` `PDO` |
+| [**Processamento de Apostas**](https://github.com/JoaoPedroLuvisariSeveriano/processamento-apostas-go) | Motor backend de alta performance para processamento e gerenciamento de apostas. | `Go` `Docker` `Shell` |
 | [**Desafio Game ODS**](https://github.com/JoaoPedroLuvisariSeveriano/Desafio-Game-ODS) | Jogo interativo educacional focado nos Objetivos de Desenvolvimento Sustentável (ODS). | `HTML5 Canvas` `JavaScript ES6` |
 | [**Plataforma Digital - GPC**](https://github.com/JoaoPedroLuvisariSeveriano/Plataforma-Digital-de-Cursos-GPC-Consultoria) | Plataforma web de ensino à distância (EAD) desenvolvida para a GPC. | `React` `Node.js` `Web Dev` |
 | [**Fractais Julia e Mandelbrot**](https://github.com/JoaoPedroLuvisariSeveriano/Fractais-Julia-Mandelbrot-) | Renderização matemática e estudo dos famosos conjuntos de fractais. | `JavaScript` `Algoritmos` |

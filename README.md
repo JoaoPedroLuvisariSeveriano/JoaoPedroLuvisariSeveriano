@@ -79,6 +79,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
+| [**Game Pirate Battle**](https://github.com/JoaoPedroLuvisariSeveriano/game-pirate-battle) | Simulador naval de alta performance em 2D com motor PixiJS desacoplado, simulação Delta Time, Object Pooling, testes E2E com Playwright e resiliência via MSW. | `PixiJS` `TypeScript` `React` `MSW` `Playwright` |
 | [**PetNexus 2.0**](https://github.com/JoaoPedroLuvisariSeveriano/PetNexus-2.0) | Sistema robusto de gerenciamento para petshop, reestruturado em monorepo com dashboard real, PDV e agendamentos. | `React` `Node.js` `TypeScript` `PostgreSQL` |
 | [**Sistema de Gestão Acadêmica**](https://github.com/JoaoPedroLuvisariSeveriano/Sistema-de-Gestao-Academica) | Aplicação web full-stack para administração de instituições de ensino. | `TypeScript` `Node.js` `React` |
 | [**Ordem de Serviços (MVC)**](https://github.com/JoaoPedroLuvisariSeveriano/ordem-servicos-mvc) | Sistema PHP com estrutura MVC, conexões PDO, filtros e autenticação (Seleção técnica Titan Software). | `PHP` `MVC` `MySQL` `PDO` |
@@ -87,5 +88,5 @@
 | [**Plataforma Digital - GPC**](https://github.com/JoaoPedroLuvisariSeveriano/Plataforma-Digital-de-Cursos-GPC-Consultoria) | Plataforma web de ensino à distância (EAD) desenvolvida para a GPC. | `React` `Node.js` `Web Dev` |
 | [**Fractais Julia e Mandelbrot**](https://github.com/JoaoPedroLuvisariSeveriano/Fractais-Julia-Mandelbrot-) | Renderização matemática e estudo dos famosos conjuntos de fractais. | `JavaScript` `Algoritmos` |
 | [**Sistema de Automação**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Sistema-de-Atomacao) | Automação e otimização de tarefas e processos operacionais via scripts. | `Python` `Automação` |
-| [**Materiais Visuais**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Materiais-Visuais) | Criação de diversos materiais visuais e prototipação de interfaces. | `Figma` `UI/UX` |
+| [**Materiais Visuais**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Materiais-Visuais) | Creation of various visual materials and UI prototyping. | `Figma` `UI/UX` |
 | [**Jogo de Damas**](https://github.com/JoaoPedroLuvisariSeveriano/Jogo-de-Damas) | Versão digital interativa do clássico Jogo de Damas com regras de negócio. | `JavaScript` `Lógica` |

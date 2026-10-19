@@ -88,5 +88,5 @@
 | [**Plataforma Digital - GPC**](https://github.com/JoaoPedroLuvisariSeveriano/Plataforma-Digital-de-Cursos-GPC-Consultoria) | Plataforma web de ensino à distância (EAD) desenvolvida para a GPC. | `React` `Node.js` `Web Dev` |
 | [**Fractais Julia e Mandelbrot**](https://github.com/JoaoPedroLuvisariSeveriano/Fractais-Julia-Mandelbrot-) | Renderização matemática e estudo dos famosos conjuntos de fractais. | `JavaScript` `Algoritmos` |
 | [**Sistema de Automação**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Sistema-de-Atomacao) | Automação e otimização de tarefas e processos operacionais via scripts. | `Python` `Automação` |
-| [**Materiais Visuais**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Materiais-Visuais) | Creation of various visual materials and UI prototyping. | `Figma` `UI/UX` |
+| [**Materiais Visuais**](https://github.com/JoaoPedroLuvisariSeveriano/Projeto-Materiais-Visuais) | Criação de diversos materiais visuais e prototipação de interfaces. | `Figma` `UI/UX` |
 | [**Jogo de Damas**](https://github.com/JoaoPedroLuvisariSeveriano/Jogo-de-Damas) | Versão digital interativa do clássico Jogo de Damas com regras de negócio. | `JavaScript` `Lógica` |
